@@ -1,6 +1,6 @@
-<mxfile modified="2019-11-04T14:36:51.894Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36" etag="s4CMDEhWjdkQ8BVNgsoM" version="12.1.9" type="github" pages="1">
+<mxfile modified="2019-11-04T14:37:49.631Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36" etag="RK6P8S6UadDLf8PHC7Ig" version="12.1.9" type="github" pages="1">
   <diagram id="gn_Bg4XtqljVx7qEozcg" name="Page-1">
-    <mxGraphModel dx="854" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="712" dy="390" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -189,7 +189,7 @@
           <mxGeometry x="667" y="303" width="140" height="122" as="geometry"/>
         </mxCell>
         <mxCell id="KyXaF-SN7KRc0o7MAkgT-27" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Team Lead&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="704" y="321.5" width="90" height="20" as="geometry"/>
+          <mxGeometry x="711" y="322.5" width="90" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="KyXaF-SN7KRc0o7MAkgT-28" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/user-avatar-20/64/16-Engineer-128.png;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="678.5" y="347.5" width="31" height="31" as="geometry"/>
