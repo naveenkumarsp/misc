@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-06T05:17:52.706Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36" etag="bl_1w7Nne9rlNjxgsPjg" version="12.2.0" type="github" pages="2">
+<mxfile host="www.draw.io" modified="2019-11-06T05:19:16.812Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36" etag="RKcfJ7o9WBp_MkXgSWw8" version="12.2.0" type="github" pages="2">
   <diagram id="TMcsxuAr5Mf_ETY17IFa" name="Feature Toggle">
     <mxGraphModel dx="854" dy="419" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -57,7 +57,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="9izLMl2EECfJDezQfhoP" name="Global Traffic">
-    <mxGraphModel dx="417" dy="207" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="730" dy="363" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="y-jO-gc_XpK8Hn9j_nbG-0"/>
         <mxCell id="y-jO-gc_XpK8Hn9j_nbG-1" parent="y-jO-gc_XpK8Hn9j_nbG-0"/>
@@ -83,7 +83,7 @@
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="y-jO-gc_XpK8Hn9j_nbG-2" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.route_53;fillColor=#F58536;gradientColor=none;" vertex="1" parent="y-jO-gc_XpK8Hn9j_nbG-1">
-          <mxGeometry x="363" y="270" width="50" height="70" as="geometry"/>
+          <mxGeometry x="370" y="270" width="43" height="70" as="geometry"/>
         </mxCell>
         <mxCell id="y-jO-gc_XpK8Hn9j_nbG-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.6;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="y-jO-gc_XpK8Hn9j_nbG-1" source="y-jO-gc_XpK8Hn9j_nbG-3" target="y-jO-gc_XpK8Hn9j_nbG-2">
           <mxGeometry relative="1" as="geometry"/>
@@ -116,13 +116,13 @@
           <mxGeometry x="535" y="450" width="50" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="y-jO-gc_XpK8Hn9j_nbG-21" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://icon-library.net/images/access-icon/access-icon-19.jpg;" vertex="1" parent="y-jO-gc_XpK8Hn9j_nbG-1">
-          <mxGeometry x="250" y="40" width="40" height="40" as="geometry"/>
+          <mxGeometry x="240" y="40" width="50" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="y-jO-gc_XpK8Hn9j_nbG-22" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://icon-library.net/images/access-icon/access-icon-19.jpg;" vertex="1" parent="y-jO-gc_XpK8Hn9j_nbG-1">
-          <mxGeometry x="360" y="41" width="40" height="40" as="geometry"/>
+          <mxGeometry x="355" y="41" width="50" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="y-jO-gc_XpK8Hn9j_nbG-23" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://icon-library.net/images/access-icon/access-icon-19.jpg;" vertex="1" parent="y-jO-gc_XpK8Hn9j_nbG-1">
-          <mxGeometry x="470" y="40" width="40" height="40" as="geometry"/>
+          <mxGeometry x="470" y="40" width="50" height="50" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
