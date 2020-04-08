@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-04-08T06:21:32.195Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="r8XquFpXps7SYcb4HESw" version="12.9.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-08T06:26:07.002Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="3cI6Jx2iM9opuT1geNvO" version="12.9.7" type="github">
   <diagram id="kj8Ix2y2uppP3IBQSbhn" name="Page-1">
-    <mxGraphModel dx="1826" dy="954" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2217" dy="1159" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -223,41 +223,41 @@
         <mxCell id="myXIKEV4npfC0K6AY_93-132" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;CI engine&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="43.69" y="300" width="99" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="myXIKEV4npfC0K6AY_93-143" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="238" y="482" width="140.99" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="myXIKEV4npfC0K6AY_93-133" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://lh3.googleusercontent.com/proxy/Ewccqic1Sz0O_YqewMJhrdlQgFqpQz0axGuSq0WwJ4BrZ5039Y7DrNUg7fo3OyuzFvPkJnfa4Sw1LcfxXPm511q-xpULT6uy_fzuuCedMMmfOwf5q8uxq_r11OFUdudsLOflVN4;" vertex="1" parent="myXIKEV4npfC0K6AY_93-143">
-          <mxGeometry x="50" y="32.5" width="33.35" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="myXIKEV4npfC0K6AY_93-134" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.icinga.com/wp-content/uploads/2018/03/grafana-logo.png;" vertex="1" parent="myXIKEV4npfC0K6AY_93-143">
-          <mxGeometry x="6.3700000000000045" y="30" width="43.63" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="myXIKEV4npfC0K6AY_93-136" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://hackernoon.com/hn-images/1*o59-2_98TPsQQllPT2uzEw.png;" vertex="1" parent="myXIKEV4npfC0K6AY_93-143">
-          <mxGeometry x="8.460000000000008" y="86" width="61.54" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="myXIKEV4npfC0K6AY_93-137" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://design.jboss.org/kiali/logo/images/kiali_logo_r3v1B_horizontal.png;" vertex="1" parent="myXIKEV4npfC0K6AY_93-143">
-          <mxGeometry x="70" y="75" width="70.99" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="myXIKEV4npfC0K6AY_93-138" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.2d.report;" vertex="1" parent="myXIKEV4npfC0K6AY_93-143">
-          <mxGeometry x="98.74000000000001" y="36.25" width="21.26" height="27.5" as="geometry" />
-        </mxCell>
-        <mxCell id="myXIKEV4npfC0K6AY_93-139" value="&lt;font style=&quot;font-size: 8px&quot;&gt;Reports&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="myXIKEV4npfC0K6AY_93-143">
-          <mxGeometry x="89.37" y="57" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="myXIKEV4npfC0K6AY_93-140" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;dashPattern=1 4;" vertex="1" parent="myXIKEV4npfC0K6AY_93-143">
-          <mxGeometry width="140" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="myXIKEV4npfC0K6AY_93-141" value="&lt;b&gt;Monitoring and reporting&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 4;" vertex="1" parent="myXIKEV4npfC0K6AY_93-143">
-          <mxGeometry y="5" width="140" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="myXIKEV4npfC0K6AY_93-144" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#050505;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="myXIKEV4npfC0K6AY_93-82" target="myXIKEV4npfC0K6AY_93-140">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="myXIKEV4npfC0K6AY_93-145" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Experiments stored in SCM&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="125.39" y="85.25" width="99" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="myXIKEV4npfC0K6AY_93-148" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 4;fillColor=none;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="20" y="20" width="830" height="640" as="geometry" />
+        <mxCell id="myXIKEV4npfC0K6AY_93-149" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="158" y="500" width="302" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="myXIKEV4npfC0K6AY_93-140" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;dashPattern=1 4;" vertex="1" parent="myXIKEV4npfC0K6AY_93-149">
+          <mxGeometry width="302" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="myXIKEV4npfC0K6AY_93-133" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://lh3.googleusercontent.com/proxy/Ewccqic1Sz0O_YqewMJhrdlQgFqpQz0axGuSq0WwJ4BrZ5039Y7DrNUg7fo3OyuzFvPkJnfa4Sw1LcfxXPm511q-xpULT6uy_fzuuCedMMmfOwf5q8uxq_r11OFUdudsLOflVN4;" vertex="1" parent="myXIKEV4npfC0K6AY_93-149">
+          <mxGeometry x="50" y="32.5" width="33.35" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="myXIKEV4npfC0K6AY_93-134" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.icinga.com/wp-content/uploads/2018/03/grafana-logo.png;" vertex="1" parent="myXIKEV4npfC0K6AY_93-149">
+          <mxGeometry x="6.3700000000000045" y="30" width="43.63" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="myXIKEV4npfC0K6AY_93-136" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://hackernoon.com/hn-images/1*o59-2_98TPsQQllPT2uzEw.png;" vertex="1" parent="myXIKEV4npfC0K6AY_93-149">
+          <mxGeometry x="222" y="41.379999999999995" width="65" height="21.12" as="geometry" />
+        </mxCell>
+        <mxCell id="myXIKEV4npfC0K6AY_93-137" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://design.jboss.org/kiali/logo/images/kiali_logo_r3v1B_horizontal.png;" vertex="1" parent="myXIKEV4npfC0K6AY_93-149">
+          <mxGeometry x="140" y="32.5" width="70.99" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="myXIKEV4npfC0K6AY_93-138" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.2d.report;" vertex="1" parent="myXIKEV4npfC0K6AY_93-149">
+          <mxGeometry x="101.17000000000002" y="32.5" width="21.26" height="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="myXIKEV4npfC0K6AY_93-139" value="&lt;font style=&quot;font-size: 8px&quot;&gt;Reports&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="myXIKEV4npfC0K6AY_93-149">
+          <mxGeometry x="89.37" y="57" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="myXIKEV4npfC0K6AY_93-141" value="&lt;b&gt;Monitoring and reporting&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 4;" vertex="1" parent="myXIKEV4npfC0K6AY_93-149">
+          <mxGeometry x="10" y="5" width="282" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="myXIKEV4npfC0K6AY_93-150" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 4;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="50" y="50" width="790" height="580" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
