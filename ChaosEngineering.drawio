@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-04-08T06:26:07.002Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="3cI6Jx2iM9opuT1geNvO" version="12.9.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-08T06:29:40.885Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="3dbefoA0Oc96IpeT96OS" version="12.9.7" type="github">
   <diagram id="kj8Ix2y2uppP3IBQSbhn" name="Page-1">
-    <mxGraphModel dx="2217" dy="1159" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1552" dy="811" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -256,7 +256,7 @@
         <mxCell id="myXIKEV4npfC0K6AY_93-141" value="&lt;b&gt;Monitoring and reporting&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 4;" vertex="1" parent="myXIKEV4npfC0K6AY_93-149">
           <mxGeometry x="10" y="5" width="282" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="myXIKEV4npfC0K6AY_93-150" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 4;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="myXIKEV4npfC0K6AY_93-150" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 4;fillColor=none;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="50" y="50" width="790" height="580" as="geometry" />
         </mxCell>
       </root>
