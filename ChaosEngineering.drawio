@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-04-08T06:20:52.495Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="yZwVDDHRgJxKtTQLrNVW" version="12.9.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-08T06:21:32.195Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="r8XquFpXps7SYcb4HESw" version="12.9.7" type="github">
   <diagram id="kj8Ix2y2uppP3IBQSbhn" name="Page-1">
-    <mxGraphModel dx="1552" dy="811" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1826" dy="954" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -255,6 +255,9 @@
         </mxCell>
         <mxCell id="myXIKEV4npfC0K6AY_93-145" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Experiments stored in SCM&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="125.39" y="85.25" width="99" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="myXIKEV4npfC0K6AY_93-148" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 4;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="20" y="20" width="830" height="640" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
