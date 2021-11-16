@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-16T05:38:11.494Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="UlamOyg168l9ej6cYH84" version="15.7.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-11-16T05:49:53.577Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="rEoMqDeskzJ7yzujJGUe" version="15.7.3" type="github" pages="2">
   <diagram id="DFG3QYH3-1c4JRRB8rqu" name="Overview">
     <mxGraphModel dx="1673" dy="1996" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -102,7 +102,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="yx1zwlmf6z5muzNlWtQN" name="AKS cluster">
-    <mxGraphModel dx="1422" dy="1862" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="1647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="vcM-8Kxd19stLzPDh3pf-0" />
         <mxCell id="vcM-8Kxd19stLzPDh3pf-1" parent="vcM-8Kxd19stLzPDh3pf-0" />
